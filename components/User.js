@@ -67,7 +67,8 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-between',
         flex: 0.7,
-        paddingBottom: 10
+        paddingBottom: 10,
+        paddingLeft: 10
     },
     userIconContainer: {
         flex: 1,

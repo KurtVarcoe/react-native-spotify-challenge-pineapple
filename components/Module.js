@@ -21,7 +21,7 @@ return (
                 <Icon style={styles.playIcon} name="controller-play" color="white" size={40}/>
             </View>
             <View style={styles.shuffleIconContainer}>
-                <Icon style={styles.shuffleIcon} name="shuffle" color="#1bb956" size={10}/>
+                <Icon style={styles.shuffleIcon} name="shuffle" color="#1bb956" size={12}/>
             </View>
         </View>
     </LinearGradient>
@@ -41,10 +41,10 @@ const styles = StyleSheet.create({
         borderWidth: 2,
         borderRadius: 5,
         padding: 8,
+        paddingLeft: 2,
         flex: 0.6,
         alignItems: 'center',
         justifyContent: 'center',
-        // fontWeight: 'bold',
         textAlign: "center",
         fontFamily: 'CircularStd-Medium'
     },
@@ -52,11 +52,12 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-between',
         flex: 0.8,
-        paddingRight: 10
+        paddingRight: 10,
+        paddingTop: 10
     },
     moduleLeft: {
         justifyContent: 'space-evenly',
-        paddingLeft: 15
+        paddingLeft: 10
     },
     moduleOptionIconContainer: {
         alignItems: 'flex-end',
