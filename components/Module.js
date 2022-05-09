@@ -44,9 +44,9 @@ const styles = StyleSheet.create({
         flex: 0.6,
         alignItems: 'center',
         justifyContent: 'center',
-        fontWeight: 'bold',
+        // fontWeight: 'bold',
         textAlign: "center",
-        fontFamily: 'CircularStd-Bold'
+        fontFamily: 'CircularStd-Medium'
     },
     moduleContainer: {
         flexDirection: 'row',
