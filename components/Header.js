@@ -19,8 +19,7 @@ const styles = StyleSheet.create({
     artistName: {
       color: 'white',
       fontSize: 50,
-      fontFamily: 'CircularStd-Bold',
-      fontWeight: 'bold'
+      fontFamily: 'CircularStd-Medium',
     },
     backIconContainer: {
       position: 'absolute',

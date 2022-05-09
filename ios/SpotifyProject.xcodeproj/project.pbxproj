@@ -30,6 +30,16 @@
 		E131CFED684C4CC499DF57E5 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC258440373849D1A91E3BB3 /* Entypo.ttf */; };
 		F37B866637194AA098BA6840 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 083F0783158A43B6851216D8 /* Fontisto.ttf */; };
 		F5D6DEA13A5448D4AF9EF20B /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 625755EA11A74C6EB65913F9 /* MaterialCommunityIcons.ttf */; };
+		635A2EF0310748B592A80828 /* CircularSpotifyText-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 99B06A9712D64B2389460DD6 /* CircularSpotifyText-Light.otf */; };
+		26FC94A403324E57A179FB21 /* CircularStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = E18D8BF01316418EADDE2E42 /* CircularStd-Black.otf */; };
+		A2608D901AA941A7859BF921 /* CircularStd-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DC1FA456AE264C7A8CF04C3D /* CircularStd-BlackItalic.otf */; };
+		244268C09D2841A3AD636D3C /* CircularStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9862A7DC724B4CF7B513376C /* CircularStd-Bold.otf */; };
+		91D72FCAE2904CA5AFED7198 /* CircularStd-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 577D3AC6556B40BCBC3C0E94 /* CircularStd-BoldItalic.otf */; };
+		5B624F44BE764CE0886E2038 /* CircularStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = E6CC1398A00A484B819F476A /* CircularStd-Book.otf */; };
+		6508A7EC6A794CBAA45950FA /* CircularStd-BookItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E3604113CDC445598B9B1AA4 /* CircularStd-BookItalic.otf */; };
+		508282206A754E65B6E35525 /* CircularStd-Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03A72C3F6BB54A43BD777AF4 /* CircularStd-Light Italic.otf */; };
+		B51DED24563449819C1C83D7 /* CircularStd-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = D7B80A82A17E4094AE2D421E /* CircularStd-Medium.otf */; };
+		94EC76DC24C14FB18169A31F /* CircularStd-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = AD98902BC2654A119A5E4122 /* CircularStd-MediumItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +86,16 @@
 		E65D9F78261B46E3AE51BA69 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F60C5BF2EA274AFA80BD07CA /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		99B06A9712D64B2389460DD6 /* CircularSpotifyText-Light.otf */ = {isa = PBXFileReference; name = "CircularSpotifyText-Light.otf"; path = "../assets/fonts/CircularSpotifyText-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E18D8BF01316418EADDE2E42 /* CircularStd-Black.otf */ = {isa = PBXFileReference; name = "CircularStd-Black.otf"; path = "../assets/fonts/CircularStd-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DC1FA456AE264C7A8CF04C3D /* CircularStd-BlackItalic.otf */ = {isa = PBXFileReference; name = "CircularStd-BlackItalic.otf"; path = "../assets/fonts/CircularStd-BlackItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9862A7DC724B4CF7B513376C /* CircularStd-Bold.otf */ = {isa = PBXFileReference; name = "CircularStd-Bold.otf"; path = "../assets/fonts/CircularStd-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		577D3AC6556B40BCBC3C0E94 /* CircularStd-BoldItalic.otf */ = {isa = PBXFileReference; name = "CircularStd-BoldItalic.otf"; path = "../assets/fonts/CircularStd-BoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E6CC1398A00A484B819F476A /* CircularStd-Book.otf */ = {isa = PBXFileReference; name = "CircularStd-Book.otf"; path = "../assets/fonts/CircularStd-Book.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E3604113CDC445598B9B1AA4 /* CircularStd-BookItalic.otf */ = {isa = PBXFileReference; name = "CircularStd-BookItalic.otf"; path = "../assets/fonts/CircularStd-BookItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		03A72C3F6BB54A43BD777AF4 /* CircularStd-Light Italic.otf */ = {isa = PBXFileReference; name = "CircularStd-Light Italic.otf"; path = "../assets/fonts/CircularStd-Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D7B80A82A17E4094AE2D421E /* CircularStd-Medium.otf */ = {isa = PBXFileReference; name = "CircularStd-Medium.otf"; path = "../assets/fonts/CircularStd-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AD98902BC2654A119A5E4122 /* CircularStd-MediumItalic.otf */ = {isa = PBXFileReference; name = "CircularStd-MediumItalic.otf"; path = "../assets/fonts/CircularStd-MediumItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +154,16 @@
 				7CE70415F38F47339C24F5D2 /* Octicons.ttf */,
 				39D04F5229DC4E37913210E9 /* SimpleLineIcons.ttf */,
 				41F2EFAB0C604D2A97C844A6 /* Zocial.ttf */,
+				99B06A9712D64B2389460DD6 /* CircularSpotifyText-Light.otf */,
+				E18D8BF01316418EADDE2E42 /* CircularStd-Black.otf */,
+				DC1FA456AE264C7A8CF04C3D /* CircularStd-BlackItalic.otf */,
+				9862A7DC724B4CF7B513376C /* CircularStd-Bold.otf */,
+				577D3AC6556B40BCBC3C0E94 /* CircularStd-BoldItalic.otf */,
+				E6CC1398A00A484B819F476A /* CircularStd-Book.otf */,
+				E3604113CDC445598B9B1AA4 /* CircularStd-BookItalic.otf */,
+				03A72C3F6BB54A43BD777AF4 /* CircularStd-Light Italic.otf */,
+				D7B80A82A17E4094AE2D421E /* CircularStd-Medium.otf */,
+				AD98902BC2654A119A5E4122 /* CircularStd-MediumItalic.otf */,
 			);
 			name = Resources;
 			path = "";
@@ -317,6 +347,16 @@
 				0C1A6353D0FB4EB69B34D796 /* Octicons.ttf in Resources */,
 				71A95753BEC942EABAF1C796 /* SimpleLineIcons.ttf in Resources */,
 				CECB7E1B0F9F4814946F071F /* Zocial.ttf in Resources */,
+				635A2EF0310748B592A80828 /* CircularSpotifyText-Light.otf in Resources */,
+				26FC94A403324E57A179FB21 /* CircularStd-Black.otf in Resources */,
+				A2608D901AA941A7859BF921 /* CircularStd-BlackItalic.otf in Resources */,
+				244268C09D2841A3AD636D3C /* CircularStd-Bold.otf in Resources */,
+				91D72FCAE2904CA5AFED7198 /* CircularStd-BoldItalic.otf in Resources */,
+				5B624F44BE764CE0886E2038 /* CircularStd-Book.otf in Resources */,
+				6508A7EC6A794CBAA45950FA /* CircularStd-BookItalic.otf in Resources */,
+				508282206A754E65B6E35525 /* CircularStd-Light Italic.otf in Resources */,
+				B51DED24563449819C1C83D7 /* CircularStd-Medium.otf in Resources */,
+				94EC76DC24C14FB18169A31F /* CircularStd-MediumItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
