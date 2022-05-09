@@ -1,5 +1,6 @@
 import React from "react";
 import Icon from 'react-native-vector-icons/Entypo';
+import AntIcon from 'react-native-vector-icons/AntDesign';
 import { Text,View, StyleSheet } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 
@@ -11,7 +12,7 @@ return (
             <View style={styles.options}>
                 <Text style={styles.followBtn}>OBALANDELAYO</Text>
                 <View style={styles.moduleOptionIconContainer}>
-                    <Icon style={styles.moduleOptionIcon} color="#a6a6a6" size={25} name="dots-three-horizontal"/>
+                    <AntIcon style={styles.moduleOptionIcon} color="#a6a6a6" size={30} name="ellipsis1"/>
                 </View>
                 <View style={styles.emptyContainer}></View>
             </View>
