@@ -31,7 +31,8 @@ return (
 const styles = StyleSheet.create({
     body: {
         color: '#a6a6a6',
-        fontSize: 16
+        fontSize: 16,
+        fontFamily: 'CircularSpotifyText-Light'
     },
     emptyContainer: {
         flex: 0.1
@@ -42,12 +43,13 @@ const styles = StyleSheet.create({
         borderWidth: 2,
         borderRadius: 5,
         padding: 8,
-        paddingLeft: 2,
+        paddingLeft: 8,
         flex: 0.6,
         alignItems: 'center',
         justifyContent: 'center',
         textAlign: "center",
-        fontFamily: 'CircularStd-Medium'
+        fontFamily: 'CircularStd-Medium',
+        letterSpacing: 0.6
     },
     moduleContainer: {
         flexDirection: 'row',

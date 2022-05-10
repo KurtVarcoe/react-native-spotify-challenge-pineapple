@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
         fontWeight: '600',
         flex: 0.8,
         paddingLeft: 10,
+        fontFamily: 'CircularSpotifyText-Light'
     },
     trackListView: {
       flex: 1.8,

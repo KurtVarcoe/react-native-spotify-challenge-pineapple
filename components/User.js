@@ -62,7 +62,8 @@ const styles = StyleSheet.create({
     },
     numFav: {
         color: '#a6a6a6',
-        paddingTop: 5
+        paddingTop: 5,
+        fontFamily: 'CircularSpotifyText-Light'
     },
     userContainer: {
         flexDirection: 'row',
@@ -77,6 +78,7 @@ const styles = StyleSheet.create({
     },
     userName: {
         color: 'white',
-        fontSize: 18
+        fontSize: 18,
+        fontFamily: 'CircularSpotifyText-Light'
     }
 })

@@ -32,7 +32,8 @@ const styles = StyleSheet.create({
     },
     listItemText: {
         color: 'white',
-        fontSize: 20
+        fontSize: 20,
+        fontFamily: 'CircularSpotifyText-Light'
     },
     listItemView: {
         flexDirection: 'row',
@@ -44,10 +45,12 @@ const styles = StyleSheet.create({
         flex: 1,
         alignSelf: 'center',
         fontSize: 16,
-        paddingLeft: 16
+        paddingLeft: 16,
+        fontFamily: 'CircularSpotifyText-Light'
     },
     viewCount: {
         color: '#a6a6a6',
-        fontSize: 14
+        fontSize: 14,
+        fontFamily: 'CircularSpotifyText-Light'
     }
 });
