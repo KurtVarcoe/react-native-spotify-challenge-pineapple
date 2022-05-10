@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     artistInfo: {
         flex: 6,
         paddingLeft: 20,
-        justifyContent: 'space-evenly'
+        justifyContent: 'center',
     },
     favImage: {
         width: 45,
@@ -61,7 +61,8 @@ const styles = StyleSheet.create({
         paddingLeft: 15
     },
     numFav: {
-        color: '#a6a6a6'
+        color: '#a6a6a6',
+        paddingTop: 5
     },
     userContainer: {
         flexDirection: 'row',
